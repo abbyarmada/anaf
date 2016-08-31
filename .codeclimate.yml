@@ -25,6 +25,7 @@ ratings:
 exclude_paths:
 - spec/**/*
 - "*.min.js"
+- "*.min.css"
 - "*/tinymce/*"
 - "*/jquery-ui-*/*"
 - "*/colorbox/*"
